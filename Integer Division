@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+n= a//b
+div=a/b
+print(n)
+print(div)
